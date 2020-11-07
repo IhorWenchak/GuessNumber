@@ -1,0 +1,6 @@
+E:\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+E:\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+E:\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+E:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+E:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+E:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
